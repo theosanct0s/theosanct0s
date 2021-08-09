@@ -12,7 +12,7 @@
   <img align="center" alt="Theo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Theo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Theo-yoda" src="https://cdn.discordapp.com/attachments/822129357614743613/874391918530920548/09_08_2021_17_40_55.jpg">
+  <img align="right" alt="Theo-yoda" src="https://cdn.discordapp.com/attachments/822129357614743613/874392128107737098/09_08_2021_17_41_34.jpg">
 </div>
   
   ##
