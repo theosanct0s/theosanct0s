@@ -1,8 +1,8 @@
 ## Hi! I'm Théo Santos 
  <div>
   <a href="https://github.com/theosanct0s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theosanct0s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theosanct0s&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=theosanct0s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theosanct0s&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Theo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="Theo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Theo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Theo-yoda" src="https://cdn.discordapp.com/attachments/822129357614743613/874392128107737098/09_08_2021_17_41_34.jpg">
+  <img align="right" alt="Theo-yoda" src="https://cdn.discordapp.com/attachments/822129357614743613/874154919949647882/Screenshot_21.png">
 </div>
   
   ##
