@@ -1,26 +1,20 @@
-# Hi! I'm Théo S. 
-<div>
-  <a href="https://github.com/theosanct0s">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=theosanct0s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theosanct0s&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Theo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Theo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Theo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Theo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Theo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Theo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<p align="center"><img src="https://gpvc.arturio.dev/theosanct0s" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/theosanct0s" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/theosanct0s" alt="Profile Forks"></a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@TheoSNTz-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/TheoSNTz)](https://twitter.com/TheoSNTz) 
-[![Gmail Badge](https://img.shields.io/badge/-theosevero21@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theosevero21@gmail.com)](mailto:theosevero21@gmail.com)
- 
-Just another programmer in the world.
+```python
+print(f'Follow {theosanct0s} on Github')
+```
 
-Passionate about programming and codes, I always try to evolve everything I've learned.
+```python
+       OS  :  21H2
+   Python  :  python 3.9.12
+Languages  :  JavaScript, Kotlin, C, PHP, Python, Java, Batch
+  Discord  :  277375966341496832
+```
 
-- "Nothing in this world beats good old-fashioned persistence. Talent doesn't. Nothing more common than talented failures. Genius doesn't. Unrecognized genius is practically a cliché. Education doesn't. The world is full of educated fools . Persistence and determination alone are powerful."
+```json
+Knowledge is power.
+```
 
-- "Be like water, be moldable."
+<a href="https://theodev.xyz" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
