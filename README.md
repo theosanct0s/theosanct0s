@@ -2,19 +2,40 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/theosanct0s" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/theosanct0s" alt="Profile Forks"></a>
 
-```python
-print(f'Follow {theosanct0s} on Github')
+<!-- 
+
+	~> If you see this don't forget to follow me before skid <3
+
+-->
+
+```css
+[arquivos@archlinux ~]$ neofetch
+
+                    -@                    arquivos@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: Théo S.
+                  @#####@                 Alias: SNTz, Arquivos
+                . *######@                Discord: 277375966341496832
+               .##@o@#####@               Website: https://theodev.xyz/
+              /############@            
+             /##############@             arquivos@archlinux
+            @######@**%######@            -----------------
+           @######`     %#####o           Front-end: 7/10
+          @######@       ######%          Back-end: 6/1O
+        -@#######h       ######@.`        Python: 5/10
+       /#####h**``       `**%@####@       JavaScript: 9/10
+      @H@*`                    `*%#@    
+     *`                            `*     Infos: 19y, Freelancer and Designer & Software Engineer!
+
 ```
 
-```python
-       OS  :  21H2
-   Python  :  python 3.9.12
-Languages  :  JavaScript, Kotlin, C, PHP, Python, Java, Batch
-  Discord  :  277375966341496832
-```
+<p align="center">
+	<img src="https://lanyard.cnrad.dev/api/277375966341496832"/>
+<!-- 	<br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiWeb&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
+</p>
 
-```json
-Knowledge is power.
-```
-
-<a href="https://theodev.xyz" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
