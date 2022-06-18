@@ -9,16 +9,16 @@
 -->
 
 ```css
-[arquivos@archlinux ~]$ neofetch
+[vers@archlinux ~]$ neofetch
 
-                    -@                    arquivos@archlinux
+                    -@                    vers@archlinux
                    .##@                   -----------------
                   .####@                  Username: Théo S.
-                  @#####@                 Alias: SNTz, Arquivos
+                  @#####@                 Alias: SNTz, Vers
                 . *######@                Discord: 277375966341496832
                .##@o@#####@               Website: https://theodev.xyz/
               /############@            
-             /##############@             arquivos@archlinux
+             /##############@             vers@archlinux
             @######@**%######@            -----------------
            @######`     %#####o           Front-end: 7/10
           @######@       ######%          Back-end: 6/1O
