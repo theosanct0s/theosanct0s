@@ -16,14 +16,14 @@
                   .####@                  Username: Théo S.
                   @#####@                 Alias: SNTz, Vers
                 . *######@                Discord: 277375966341496832
-               .##@o@#####@               Website: https://theodev.xyz/
+               .##@o@#####@               Website: https://theodev.xyz/ [in progress]
               /############@            
              /##############@             vers@archlinux
             @######@**%######@            -----------------
-           @######`     %#####o           Front-end: 7/10
-          @######@       ######%          Back-end: 6/1O
-        -@#######h       ######@.`        Python: 5/10
-       /#####h**``       `**%@####@       JavaScript: 9/10
+           @######`     %#####o           JavaScript: 9/10
+          @######@       ######%          TypeScript: 7/10
+        -@#######h       ######@.`        Front-end: 7/10
+       /#####h**``       `**%@####@       Back-end: 6/1O
       @H@*`                    `*%#@    
      *`                            `*     Infos: 19y, Freelancer and Designer & Software Engineer!
 
