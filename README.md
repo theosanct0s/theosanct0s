@@ -4,7 +4,7 @@
 
 <!-- 
 
-	~> If you see this don't forget to follow me before skid <3
+	~> If you use it, don't forget to follow me 🥰
 
 -->
 
