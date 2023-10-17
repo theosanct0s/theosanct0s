@@ -2,7 +2,7 @@
   <br>
   <samp>
     heya, im <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://theodev.xyz/">théo</a></b>.
-    <br>im 20 years old and im a freelancer, designer and software engineer<br>
+    <br>im 20 years old and im a developer<br>
 
 </samp>
 
