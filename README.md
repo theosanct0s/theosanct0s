@@ -17,9 +17,8 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-current project: <a href="https://github.com/theosanct0s/haxball-bot">haxball bot</a>
+current project: <a href="https://github.com/theosanct0s/discord-rich-presence">discord rich presence</a>
 
-web: [theodev.xyz](https://theodev.xyz/)
 discord: [@theosanct0s](https://discord.com/users/277375966341496832)
 
 
